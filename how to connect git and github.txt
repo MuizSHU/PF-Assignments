@@ -1,0 +1,6 @@
+1. git init
+2. git add (file name) / . 
+3. git commit -M "Done"(for giving messages)
+* At git and github by default branch is made is called Master Branch
+4. git branch -M main
+5. git push -u origin main

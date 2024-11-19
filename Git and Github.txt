@@ -1,0 +1,5 @@
+1. VCS(Version Control System)
+2. for connection of git and github type in gitbash
+type git config --global user.name "MuizSHU"
+type git config --global user.email "syedabdulmuiz1@gmail.com"
+to check: git config --list
